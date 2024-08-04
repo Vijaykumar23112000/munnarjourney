@@ -1,0 +1,2 @@
+config-server           :   http://localhost:8888
+discovery-server        :   http://localhost:8761
